@@ -1,6 +1,6 @@
 # Brian Dang
 
-Computer Science student at UC Santa Cruz (Applied Math minor), on exchange at Korea University for Fall 2026. I like backend systems, security, and building things end to end.
+Computer Science and Applied Math student at UC Santa Cruz, on exchange at Korea University for Fall 2026.
 
 - Previously: Full Stack Developer Intern and Backend Lead at Cara AI (June to October 2026). Built an AI provider routing engine and a prompt registry in FastAPI, sped up iOS CI from 6.9 to 2.5 minutes, and took npm vulnerabilities from 42 to 0.
 
